@@ -5,3 +5,7 @@
  padding: 50px;
  padding-top: 35vh;
 }
+
+#generatedPassword {
+ display: none;
+}
